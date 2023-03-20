@@ -9,12 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@latticexyz/network": "^1.41.0",
+    "@latticexyz/react": "^1.41.0",
+    "@latticexyz/recs": "^1.41.0",
+    "@latticexyz/std-client": "^1.41.0",
+    "@latticexyz/utils": "^1.41.0",
     "@types/node": "18.15.3",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "next": "13.2.4",
+    "next-transpile-modules": "^10.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.2"
